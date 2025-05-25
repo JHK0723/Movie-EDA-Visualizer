@@ -53,50 +53,42 @@ Each visualization includes analysis and real-world interpretation.
 - Seaborn
 - gdown (for dataset downloads)
 - Jupyter Notebook / Google Colab
+- **Note:** Due to output size and complexity, GitHub may not render the notebook properly and display an "Unable to render code block" message. For a better experience, view the notebook via [NBViewer](https://nbviewer.org/github/JHK0723/Movie-EDA-Visualizer/blob/main/EDA.ipynb).
 
-## 🗂️ Folder Structure
 
-```
-Movie-EDA-Visualizer/
-│
-├── data.csv              # Original raw dataset
-├── cleaned_data.csv      # Cleaned and transformed dataset
-├── Movie_EDA.ipynb       # Main notebook with full analysis
-└── README.md             # Project documentation (this file)
-```
 ## Visualisation
 
 - Distribution of Movie Ratings
 
- ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/f0d532d40e5c62918d467b45854b6c2360d06c65/LRimage.png)
+ ![My plot](https://github.com/JHK0723/Movie-EDA-Visualizer/blob/745d2800cc4b67585033ada8cdd4dcd68392accb/DMRimage.png)
 
 - Count of Movies per Genre
 
- ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/f0d532d40e5c62918d467b45854b6c2360d06c65/LRimage.png)
+ ![My plot](https://github.com/JHK0723/Movie-EDA-Visualizer/blob/d68aeaf8a02ab1e125af05a894714d29462daed0/CMGimage.png)
 
 - Average Movie Rating by Genre
 
- ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/f0d532d40e5c62918d467b45854b6c2360d06c65/LRimage.png)
+ ![My plot](https://github.com/JHK0723/Movie-EDA-Visualizer/blob/9dd39683b26e305411bd11c395bc7010ef10f7e2/AMRimage.png)
 
 - Correlation Heatmap of Numeric Features
 
- ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/f0d532d40e5c62918d467b45854b6c2360d06c65/LRimage.png)
+ ![My plot](https://github.com/JHK0723/Movie-EDA-Visualizer/blob/c1578c9355fe089e5b4eff920d2cfa3a3557b645/CHNFimage.png)
 
 - Distribution of Gross Profit
 
- ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/f0d532d40e5c62918d467b45854b6c2360d06c65/LRimage.png)
+ ![My plot](https://github.com/JHK0723/Movie-EDA-Visualizer/blob/e9c4f39a3594800a67c4c33713f4ecbb74ed321e/DGPimage.png)
 
 - Average Gross Profit by Genre
 
- ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/f0d532d40e5c62918d467b45854b6c2360d06c65/LRimage.png)
+ ![My plot](https://github.com/JHK0723/Movie-EDA-Visualizer/blob/e963a2486bfea79a4275239788a240398b06dc32/AGPGimage.png)
 
 - Average Gross Profit Over the Years
 
- ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/f0d532d40e5c62918d467b45854b6c2360d06c65/LRimage.png)
+ ![My plot](https://github.com/JHK0723/Movie-EDA-Visualizer/blob/3e46fb5b66c5f47e44bc65b3c9648c37e0b71ebb/AGPYimage.png)
 
 - Votes vs Gross Profit
 
- ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/f0d532d40e5c62918d467b45854b6c2360d06c65/LRimage.png)
+ ![My plot](https://github.com/JHK0723/Movie-EDA-Visualizer/blob/6f44e304fb515ea315b66ba1e951ec245e68991d/VGPimage.png)
 
 ## 📁 Output
 
